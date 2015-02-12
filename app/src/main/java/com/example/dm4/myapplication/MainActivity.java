@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//first android app
+//first android app, does git work?
 public class MainActivity extends ActionBarActivity {
 
     @Override
